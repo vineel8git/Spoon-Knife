@@ -12,6 +12,11 @@
 p {
   display: block;
   width: 400px;
+<<<<<<< HEAD
   margin: 55px auto;
   font: 25px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+=======
+  margin: 50px auto;
+  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+>>>>>>> parent of 70632d7... Take that!
 }
